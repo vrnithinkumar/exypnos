@@ -14,6 +14,6 @@ Two features:
     - Age of the person
     - Number of cigarettes consumed per day
     
-The training set of data is from Gaussian distribution.
+The training set is assumed to be in a gaussian distribution by the classifier.
 
 Author: Nachi Vpn &  S. Selshyam 
