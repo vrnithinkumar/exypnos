@@ -1,19 +1,10 @@
-Bayes classifier
-----------------
+EXYPNOS
+=======
 
-Written in python, the simple bayes classifier in this repository is aimed at the following problem statement.
+An ML python library. 
 
-To classify a person according to possible risk levels of cancer according to his/her age and the amount of cigarettes consumed by the person in one day.
+[Will put up more information when i complete it]
 
-Three classes:
-    - No chance of cancer
-    - Possibility of cancer after 10 years
-    - Possibility of cancer within 10 years
-    
-Two features:
-    - Age of the person
-    - Number of cigarettes consumed per day
-    
-The training set is assumed to be in a gaussian distribution by the classifier.
+Duration: October 2013 - Prsesent
 
-Author: Nachi Vpn &  S. Selshyam 
+Author: Nachiappan V
